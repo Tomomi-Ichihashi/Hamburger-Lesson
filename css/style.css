@@ -75,8 +75,8 @@ h1 {
 }
 
 .menu-trigger.active span:nth-child(3) {
-  -webkit-transform: translateY(20px) rotate(-45deg);
-  transform: translateY(20px) rotate(-45deg);
+  -webkit-transform: translateY(-20px) rotate(45deg);
+  transform: translateY(-20px) rotate(45deg);
   background-color: #fff;
 }
 
